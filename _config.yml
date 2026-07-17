@@ -14,7 +14,8 @@ title: 肖子乐的个人网站
 
 # Your name to show in the footer
 author: 肖子乐
-
+description: "肖子乐的个人博客，记录技术、日常与学习笔记"   # 新增的 meta 描述
+rss-description: "我的个人博客，记录我的技术笔记与生活随想"
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -29,6 +30,7 @@ navbar-links:
 ################
 # --- Logo --- #
 ################
+url-pretty: "https://xzl80.github.io"  # 或你的自定义域名
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -52,7 +54,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "1295806290@qq.com"
-  
+  github: "xzl80"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -97,7 +99,6 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://xzl80.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
